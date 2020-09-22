@@ -1,0 +1,3 @@
+Just a small example of counting the appearance of a given character in a textstring
+
+Merlin's the name and logic is my game...
